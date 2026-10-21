@@ -1,0 +1,20 @@
+# 1
+html, basic function
+
+# 2
+css, site layout
+
+# 3
+about section
+project cards
+
+# 4
+port to mobile
+
+# 5
+javascript, interactions
+tests for interactions
+
+# 6
+readme
+deploy v1
